@@ -32,7 +32,7 @@ This is a full-stack single-page application (SPA) built with React on the front
 
 ### Deployed Link
 
-- [CountryApp](https://countryapp.com)
+- [CountryApp](https://country-details-blush.vercel.app/)
 
 ### Setup Instructions
 
